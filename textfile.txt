@@ -1,0 +1,13 @@
+Location,Department,Category,SubCategory
+Perimeter,Bakery,Bakery Bread,Bagels
+Perimeter,Bakery,Bakery Bread,Baking or Breading Products
+Perimeter,Bakery,Bakery Bread,English Muffins or Biscuits
+Perimeter,Bakery,Bakery Bread,Flatbreads
+Perimeter,Bakery,In Store Bakery,Breakfast Cake or Sweet Roll
+Perimeter,Bakery,In Store Bakery,Cakes
+Perimeter,Bakery,In Store Bakery,Pies
+Perimeter,Bakery,In Store Bakery,Seasonal
+Center,Dairy,Cheese,Cheese Sauce
+Center,Dairy,Cheese,Specialty Cheese
+Center,Dairy,Cream or Creamer,Dairy Alternative Creamer
+Center,Dairy,Cream or Creamer,Whipping
